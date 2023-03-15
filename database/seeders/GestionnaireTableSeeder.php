@@ -17,7 +17,7 @@ class GestionnaireTableSeeder extends Seeder
     {
         $gestionnaires = [
             [
-                'address' => 'Douala, Akwa',
+                'address' => 'Bruxelles, ixelles',
                 'user_id' => 3,
             ],
         ];
